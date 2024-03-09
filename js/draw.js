@@ -10,3 +10,5 @@ draw.path=(ctx, path, color="black")=>{
     }
     ctx.stroke();
 }
+
+//Working drawing update
